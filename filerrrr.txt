@@ -1,23 +1,13 @@
-line 
-line 
-line 
-line 
-line 
-line 
+line 1
+line 2
+line 3
+line 4
+line 5
+line 6
 line 
 
-line 
-line 
-line 
-line 
-<<<<<<< HEAD
+
 line 
 
 ddd
-=======
 
-line 
-line 
-line 
-line 
->>>>>>> b_new
