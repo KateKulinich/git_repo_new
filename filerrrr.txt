@@ -10,6 +10,14 @@ line
 line 
 line 
 line 
+<<<<<<< HEAD
 line 
 
 ddd
+=======
+
+line 
+line 
+line 
+line 
+>>>>>>> b_new
