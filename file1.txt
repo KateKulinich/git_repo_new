@@ -1,4 +1,5 @@
 Line 1
+<<<<<<< HEAD
 
 Line 1
 
@@ -7,3 +8,9 @@ Line 1
 
 
 Line 1
+=======
+Line 1
+Line 1Line 1
+Line 1
+Line 1
+>>>>>>> d93c278c8ef6652ab493cf85f03da4784c954fae
